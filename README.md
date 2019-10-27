@@ -7,4 +7,8 @@
 
 - Mongoose: simple, schema-based solution to model application data
 
-![ScreenShot](mongodb.png)
+![ScreenShot](MongoDB.png)
+
+#### MongoDB Atlas
+
+
