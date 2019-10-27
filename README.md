@@ -9,6 +9,8 @@
 
 ![ScreenShot](MongoDB.png)
 
+![ScreenShot](bson_types.png)
+
 #### MongoDB Atlas
 
 
